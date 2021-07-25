@@ -1,5 +1,5 @@
 # greedy-snake
-同济大学CS《高级程序语言设计2》大作业: 贪吃蛇TongJi University CS C++ homework: greddy snake
+同济大学CS《高级程序语言设计2》大作业: 贪吃蛇TongJi University CS C++ assignment: greddy snake
 ## 概述
 
 本项目是为2020年同济大学计算机系高级程序语言设计2期末作业。实现了一个功能齐全的贪吃蛇游戏。
